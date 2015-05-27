@@ -1,0 +1,29 @@
+{
+  "name": "time-track",
+  "version": "1.0.0",
+  "authors": [
+    "Ole Andreas Hansen <oleaha@me.com>"
+  ],
+  "description": "Simple timetracker",
+  "main": "index.html",
+  "keywords": [
+    "time"
+  ],
+  "license": "MIT",
+  "homepage": "www.captio.no",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.13.0",
+    "angular-resource": "~1.4.0",
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3.4",
+    "moment": "~2.10.3"
+  }
+}
